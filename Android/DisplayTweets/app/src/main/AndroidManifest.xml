@@ -19,6 +19,9 @@
             </intent-filter>
         </activity>
         <meta-data android:name="com.crashlytics.ApiKey" android:value=""/>
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="6049d743c3b5241734d46b1a0a6824edf62dfb18" />
     </application>
 
 </manifest>
